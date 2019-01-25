@@ -10,6 +10,8 @@ namespace ArboristCo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello github!");
+            Console.ReadLine();
         }
     }
 }
